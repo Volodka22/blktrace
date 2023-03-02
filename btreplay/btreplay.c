@@ -43,8 +43,8 @@
 #endif
 #include <getopt.h>
 
-#include "m_list.h"
-#include "m_btrecord.h"
+#include "list.h"
+#include "btrecord.h"
 
 /*
  * ========================================================================
